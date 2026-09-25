@@ -129,6 +129,8 @@ export default function Login() {
                         </button>
                     </form>
 
+                    <a href="https://www.vtabsquare.com/?demo=1&product=resource-onboarding&source=resource-onboarding-app" target="_blank" rel="noopener noreferrer" className="mt-5 flex w-full items-center justify-center rounded-xl bg-indigo-600 px-4 py-3 text-sm font-semibold text-white hover:bg-indigo-700 transition-colors">Contact for Demo ↗</a>
+
                     <p className="mt-8 text-center text-xs text-gray-400">
                         &copy; {new Date().getFullYear()} Offer Editer Admin Portal. All rights reserved.
                     </p>
